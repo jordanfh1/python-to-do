@@ -1,0 +1,26 @@
+# Python-related
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+
+# Environment files
+venv/
+.env
+
+# macOS
+.DS_Store
+
+# Byte-compiled and other Python artifacts
+*.egg-info/
+*.egg
+*.pyo
+
+# IDEs
+.idea/
+.vscode/
+
+# Heroku
+*.log
+Procfile
